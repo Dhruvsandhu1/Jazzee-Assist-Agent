@@ -182,7 +182,7 @@ tiktoken==0.8.0
 tokenizers==0.20.1
 toml==0.10.2
 tomli==2.2.1
-torch==2.5.0
+torch==2.5.1
 torchvision==0.20.1
 tornado==6.4.1
 tqdm==4.66.5
