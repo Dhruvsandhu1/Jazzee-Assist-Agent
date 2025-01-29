@@ -14,9 +14,8 @@ from dotenv import load_dotenv
 import os
 import time,json
 
-load_dotenv()
 
-api_key = os.getenv("API_KEY")
+api_key = st.secrets["OPENAI_API_KEY"]
 client = OpenAI(
     api_key = api_key
 )
