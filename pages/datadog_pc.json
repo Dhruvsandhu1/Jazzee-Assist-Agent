@@ -1,0 +1,97 @@
+{
+    "Pros": [
+        {
+            "title": "Comprehensive Toolset",
+            "body": "Adobe offers a wide range of powerful tools for various creative tasks, making it a one-stop solution for designers, photographers, and video editors.",
+            "ref": [
+                8,
+                14,
+                30
+            ]
+        },
+        {
+            "title": "User-Friendly Interface",
+            "body": "Many users find Adobe software, particularly Lightroom, to have an intuitive interface that is easy for beginners to learn and navigate.",
+            "ref": [
+                3,
+                22,
+                23
+            ]
+        },
+        {
+            "title": "Regular Updates and Innovation",
+            "body": "Adobe consistently updates its software with new features and improvements, ensuring that users have access to the latest tools and capabilities.",
+            "ref": [
+                9,
+                24,
+                25
+            ]
+        },
+        {
+            "title": "Strong Community and Support",
+            "body": "Adobe has a large user community and offers extensive support resources, including tutorials and forums, which help users troubleshoot and learn effectively.",
+            "ref": [
+                1,
+                12,
+                13
+            ]
+        },
+        {
+            "title": "Integration Across Products",
+            "body": "Adobe products integrate seamlessly with each other, allowing for a smooth workflow between different applications like Photoshop, Illustrator, and InDesign.",
+            "ref": [
+                16,
+                19,
+                32
+            ]
+        }
+    ],
+    "Cons": [
+        {
+            "title": "High Subscription Costs",
+            "body": "The subscription model for Adobe products can be expensive, especially for freelancers or small businesses that may not need all features.",
+            "ref": [
+                2,
+                4,
+                24
+            ]
+        },
+        {
+            "title": "Steep Learning Curve",
+            "body": "Many users report that Adobe software can be complex and difficult to master, requiring significant time investment to become proficient.",
+            "ref": [
+                8,
+                30,
+                31
+            ]
+        },
+        {
+            "title": "Performance Issues on Low-End PCs",
+            "body": "Adobe software can be resource-intensive, leading to performance issues on lower-end computers, which can hinder productivity.",
+            "ref": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "title": "Frequent Crashes",
+            "body": "Some users experience crashes and bugs, particularly with video editing software like Premiere Pro, which can disrupt workflow.",
+            "ref": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "title": "Limited Offline Functionality",
+            "body": "Certain Adobe applications require an internet connection for full functionality, which can be a drawback for users with unstable internet access.",
+            "ref": [
+                2,
+                4,
+                24
+            ]
+        }
+    ],
+    "Fitment Score": 7
+}

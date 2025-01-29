@@ -1,0 +1,1222 @@
+[
+    {
+        "Name": "Adobe",
+        "Score": 3.0,
+        "size": "small"
+    },
+    {
+        "Name": "Adobe",
+        "Score": 5.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Adobe",
+        "Score": 6.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Adobe",
+        "Score": 4.8,
+        "size": "general"
+    },
+    {
+        "Name": "Airtable",
+        "Score": 9.5,
+        "size": "small"
+    },
+    {
+        "Name": "Airtable",
+        "Score": 9.5,
+        "size": "medium"
+    },
+    {
+        "Name": "Airtable",
+        "Score": 9.5,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Airtable",
+        "Score": 9.5,
+        "size": "general"
+    },
+    {
+        "Name": "Amplitude",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Amplitude",
+        "Score": 7.2,
+        "size": "medium"
+    },
+    {
+        "Name": "Amplitude",
+        "Score": 7.2,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Amplitude",
+        "Score": 6.9,
+        "size": "general"
+    },
+    {
+        "Name": "Ansible",
+        "Score": 7.4,
+        "size": "small"
+    },
+    {
+        "Name": "Ansible",
+        "Score": 8.4,
+        "size": "medium"
+    },
+    {
+        "Name": "Ansible",
+        "Score": 8.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Ansible",
+        "Score": 7.5,
+        "size": "general"
+    },
+    {
+        "Name": "AppDynamics",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "AppDynamics",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "AppDynamics",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "AppDynamics",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Asana",
+        "Score": 9.5,
+        "size": "small"
+    },
+    {
+        "Name": "Asana",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Asana",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Asana",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Atlassian",
+        "Score": 7.1,
+        "size": "small"
+    },
+    {
+        "Name": "Atlassian",
+        "Score": 5.1,
+        "size": "medium"
+    },
+    {
+        "Name": "Atlassian",
+        "Score": 5.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Atlassian",
+        "Score": 5.1,
+        "size": "general"
+    },
+    {
+        "Name": "AWS",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "AWS",
+        "Score": 0.0,
+        "size": "medium"
+    },
+    {
+        "Name": "AWS",
+        "Score": 0.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "AWS",
+        "Score": 7.9,
+        "size": "general"
+    },
+    {
+        "Name": "Azure",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Azure",
+        "Score": 2.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Azure",
+        "Score": 2.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Azure",
+        "Score": 9.0,
+        "size": "general"
+    },
+    {
+        "Name": "BambooHR",
+        "Score": 9.7,
+        "size": "small"
+    },
+    {
+        "Name": "BambooHR",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "BambooHR",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "BambooHR",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Basecamp",
+        "Score": 9.5,
+        "size": "small"
+    },
+    {
+        "Name": "Basecamp",
+        "Score": 9.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Basecamp",
+        "Score": 9.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Basecamp",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "BigCommerce",
+        "Score": 9.5,
+        "size": "small"
+    },
+    {
+        "Name": "BigCommerce",
+        "Score": 9.4,
+        "size": "medium"
+    },
+    {
+        "Name": "BigCommerce",
+        "Score": 9.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "BigCommerce",
+        "Score": 9.1,
+        "size": "general"
+    },
+    {
+        "Name": "Bitbucket",
+        "Score": 9.7,
+        "size": "small"
+    },
+    {
+        "Name": "Bitbucket",
+        "Score": 9.2,
+        "size": "medium"
+    },
+    {
+        "Name": "Bitbucket",
+        "Score": 9.2,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Bitbucket",
+        "Score": 9.1,
+        "size": "general"
+    },
+    {
+        "Name": "Box",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "Box",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Box",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Box",
+        "Score": 9.3,
+        "size": "general"
+    },
+    {
+        "Name": "Braze",
+        "Score": 7.2,
+        "size": "small"
+    },
+    {
+        "Name": "Braze",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Braze",
+        "Score": 9.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Braze",
+        "Score": 9.4,
+        "size": "general"
+    },
+    {
+        "Name": "Buddy",
+        "Score": 10.0,
+        "size": "small"
+    },
+    {
+        "Name": "Buddy",
+        "Score": 10.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Buddy",
+        "Score": 10.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Buddy",
+        "Score": 9.8,
+        "size": "general"
+    },
+    {
+        "Name": "Calendly",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "Calendly",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Calendly",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Calendly",
+        "Score": 9.9,
+        "size": "general"
+    },
+    {
+        "Name": "Chef",
+        "Score": 5.8,
+        "size": "small"
+    },
+    {
+        "Name": "Chef",
+        "Score": 5.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Chef",
+        "Score": 5.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Chef",
+        "Score": 5.3,
+        "size": "general"
+    },
+    {
+        "Name": "CircleCI",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "CircleCI",
+        "Score": 9.6,
+        "size": "medium"
+    },
+    {
+        "Name": "CircleCI",
+        "Score": 9.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "CircleCI",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "ClickUp",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "ClickUp",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "ClickUp",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "ClickUp",
+        "Score": 9.8,
+        "size": "general"
+    },
+    {
+        "Name": "Confluence",
+        "Score": 9.2,
+        "size": "small"
+    },
+    {
+        "Name": "Confluence",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Confluence",
+        "Score": 9.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Confluence",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "Conveyor",
+        "Score": 2.9,
+        "size": "small"
+    },
+    {
+        "Name": "Conveyor",
+        "Score": 7.1,
+        "size": "medium"
+    },
+    {
+        "Name": "Conveyor",
+        "Score": 7.2,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Conveyor",
+        "Score": 5.7,
+        "size": "general"
+    },
+    {
+        "Name": "Crowdstrike",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Crowdstrike",
+        "Score": 0.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Crowdstrike",
+        "Score": 0.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Crowdstrike",
+        "Score": 6.1,
+        "size": "general"
+    },
+    {
+        "Name": "DataDog",
+        "Score": 8.7,
+        "size": "small"
+    },
+    {
+        "Name": "DataDog",
+        "Score": 8.5,
+        "size": "medium"
+    },
+    {
+        "Name": "DataDog",
+        "Score": 8.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "DataDog",
+        "Score": 8.7,
+        "size": "general"
+    },
+    {
+        "Name": "DigitalOcean",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "DigitalOcean",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "DigitalOcean",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "DigitalOcean",
+        "Score": 9.8,
+        "size": "general"
+    },
+    {
+        "Name": "Docker",
+        "Score": 8.1,
+        "size": "small"
+    },
+    {
+        "Name": "Docker",
+        "Score": 8.5,
+        "size": "medium"
+    },
+    {
+        "Name": "Docker",
+        "Score": 8.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Docker",
+        "Score": 7.3,
+        "size": "general"
+    },
+    {
+        "Name": "DocuSign",
+        "Score": 9.3,
+        "size": "small"
+    },
+    {
+        "Name": "DocuSign",
+        "Score": 9.7,
+        "size": "medium"
+    },
+    {
+        "Name": "DocuSign",
+        "Score": 9.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "DocuSign",
+        "Score": 9.4,
+        "size": "general"
+    },
+    {
+        "Name": "Drata",
+        "Score": 6.9,
+        "size": "small"
+    },
+    {
+        "Name": "Drata",
+        "Score": 7.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Drata",
+        "Score": 7.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Drata",
+        "Score": 7.3,
+        "size": "general"
+    },
+    {
+        "Name": "Dropbox",
+        "Score": 9.7,
+        "size": "small"
+    },
+    {
+        "Name": "Dropbox",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Dropbox",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Dropbox",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "Druva",
+        "Score": 6.0,
+        "size": "small"
+    },
+    {
+        "Name": "Druva",
+        "Score": 7.3,
+        "size": "medium"
+    },
+    {
+        "Name": "Druva",
+        "Score": 7.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Druva",
+        "Score": 7.6,
+        "size": "general"
+    },
+    {
+        "Name": "Dynatrace",
+        "Score": 9.3,
+        "size": "small"
+    },
+    {
+        "Name": "Dynatrace",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Dynatrace",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Dynatrace",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "ElasticSearch",
+        "Score": 5.9,
+        "size": "small"
+    },
+    {
+        "Name": "ElasticSearch",
+        "Score": 6.2,
+        "size": "medium"
+    },
+    {
+        "Name": "ElasticSearch",
+        "Score": 6.1,
+        "size": "enterprise"
+    },
+    {
+        "Name": "ElasticSearch",
+        "Score": 5.9,
+        "size": "general"
+    },
+    {
+        "Name": "Figma",
+        "Score": 5.7,
+        "size": "small"
+    },
+    {
+        "Name": "Figma",
+        "Score": 8.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Figma",
+        "Score": 8.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Figma",
+        "Score": 8.2,
+        "size": "general"
+    },
+    {
+        "Name": "Firebase",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "Firebase",
+        "Score": 9.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Firebase",
+        "Score": 9.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Firebase",
+        "Score": 9.5,
+        "size": "general"
+    },
+    {
+        "Name": "Freshdesk",
+        "Score": 8.8,
+        "size": "small"
+    },
+    {
+        "Name": "Freshdesk",
+        "Score": 8.5,
+        "size": "medium"
+    },
+    {
+        "Name": "Freshdesk",
+        "Score": 8.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Freshdesk",
+        "Score": 7.8,
+        "size": "general"
+    },
+    {
+        "Name": "Freshworks",
+        "Score": 9.8,
+        "size": "small"
+    },
+    {
+        "Name": "Freshworks",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Freshworks",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Freshworks",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "GCP",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "GCP",
+        "Score": 10.0,
+        "size": "medium"
+    },
+    {
+        "Name": "GCP",
+        "Score": 10.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "GCP",
+        "Score": 8.5,
+        "size": "general"
+    },
+    {
+        "Name": "Github",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "Github",
+        "Score": 9.4,
+        "size": "medium"
+    },
+    {
+        "Name": "Github",
+        "Score": 9.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Github",
+        "Score": 8.5,
+        "size": "general"
+    },
+    {
+        "Name": "Gitlab",
+        "Score": 8.6,
+        "size": "small"
+    },
+    {
+        "Name": "Gitlab",
+        "Score": 8.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Gitlab",
+        "Score": 8.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Gitlab",
+        "Score": 8.2,
+        "size": "general"
+    },
+    {
+        "Name": "Gong",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "Gong",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Gong",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Gong",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Grafana",
+        "Score": 10.0,
+        "size": "small"
+    },
+    {
+        "Name": "Grafana",
+        "Score": 7.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Grafana",
+        "Score": 7.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Grafana",
+        "Score": 7.9,
+        "size": "general"
+    },
+    {
+        "Name": "Gusty",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Gusty",
+        "Score": 0.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Gusty",
+        "Score": 0.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Gusty",
+        "Score": 7.8,
+        "size": "general"
+    },
+    {
+        "Name": "Heroku",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Heroku",
+        "Score": 8.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Heroku",
+        "Score": 8.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Heroku",
+        "Score": 8.9,
+        "size": "general"
+    },
+    {
+        "Name": "Hubspot",
+        "Score": 6.7,
+        "size": "small"
+    },
+    {
+        "Name": "Hubspot",
+        "Score": 7.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Hubspot",
+        "Score": 7.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Hubspot",
+        "Score": 7.0,
+        "size": "general"
+    },
+    {
+        "Name": "Intercom",
+        "Score": 9.5,
+        "size": "small"
+    },
+    {
+        "Name": "Intercom",
+        "Score": 9.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Intercom",
+        "Score": 9.7,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Intercom",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "Jamf",
+        "Score": 6.9,
+        "size": "small"
+    },
+    {
+        "Name": "Jamf",
+        "Score": 6.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Jamf",
+        "Score": 6.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Jamf",
+        "Score": 6.3,
+        "size": "general"
+    },
+    {
+        "Name": "Jenkins",
+        "Score": 9.4,
+        "size": "small"
+    },
+    {
+        "Name": "Jenkins",
+        "Score": 9.6,
+        "size": "medium"
+    },
+    {
+        "Name": "Jenkins",
+        "Score": 9.5,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Jenkins",
+        "Score": 8.6,
+        "size": "general"
+    },
+    {
+        "Name": "JFrog",
+        "Score": 8.5,
+        "size": "small"
+    },
+    {
+        "Name": "JFrog",
+        "Score": 5.8,
+        "size": "medium"
+    },
+    {
+        "Name": "JFrog",
+        "Score": 8.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "JFrog",
+        "Score": 7.7,
+        "size": "general"
+    },
+    {
+        "Name": "Jira",
+        "Score": 9.7,
+        "size": "small"
+    },
+    {
+        "Name": "Jira",
+        "Score": 9.3,
+        "size": "medium"
+    },
+    {
+        "Name": "Jira",
+        "Score": 9.3,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Jira",
+        "Score": 8.9,
+        "size": "general"
+    },
+    {
+        "Name": "Kubernetes",
+        "Score": 7.8,
+        "size": "small"
+    },
+    {
+        "Name": "Kubernetes",
+        "Score": 7.6,
+        "size": "medium"
+    },
+    {
+        "Name": "Kubernetes",
+        "Score": 7.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Kubernetes",
+        "Score": 7.6,
+        "size": "general"
+    },
+    {
+        "Name": "Linode",
+        "Score": 8.3,
+        "size": "small"
+    },
+    {
+        "Name": "Linode",
+        "Score": 9.3,
+        "size": "medium"
+    },
+    {
+        "Name": "Linode",
+        "Score": 9.3,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Linode",
+        "Score": 7.9,
+        "size": "general"
+    },
+    {
+        "Name": "Looker",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "Looker",
+        "Score": 9.5,
+        "size": "medium"
+    },
+    {
+        "Name": "Looker",
+        "Score": 9.5,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Looker",
+        "Score": 9.6,
+        "size": "general"
+    },
+    {
+        "Name": "Lucidchart",
+        "Score": 2.9,
+        "size": "small"
+    },
+    {
+        "Name": "Lucidchart",
+        "Score": 5.3,
+        "size": "medium"
+    },
+    {
+        "Name": "Lucidchart",
+        "Score": 6.2,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Lucidchart",
+        "Score": 7.7,
+        "size": "general"
+    },
+    {
+        "Name": "Miro",
+        "Score": 9.8,
+        "size": "small"
+    },
+    {
+        "Name": "Miro",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "Miro",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Miro",
+        "Score": 9.5,
+        "size": "general"
+    },
+    {
+        "Name": "Mixpanel",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "Mixpanel",
+        "Score": 9.8,
+        "size": "medium"
+    },
+    {
+        "Name": "Mixpanel",
+        "Score": 9.8,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Mixpanel",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Monday",
+        "Score": 9.9,
+        "size": "small"
+    },
+    {
+        "Name": "Monday",
+        "Score": 10.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Monday",
+        "Score": 10.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Monday",
+        "Score": 10.0,
+        "size": "general"
+    },
+    {
+        "Name": "MongoDB",
+        "Score": 10.0,
+        "size": "small"
+    },
+    {
+        "Name": "MongoDB",
+        "Score": 9.9,
+        "size": "medium"
+    },
+    {
+        "Name": "MongoDB",
+        "Score": 9.9,
+        "size": "enterprise"
+    },
+    {
+        "Name": "MongoDB",
+        "Score": 9.7,
+        "size": "general"
+    },
+    {
+        "Name": "Netlify",
+        "Score": 10.0,
+        "size": "small"
+    },
+    {
+        "Name": "Netlify",
+        "Score": 9.5,
+        "size": "medium"
+    },
+    {
+        "Name": "Netlify",
+        "Score": 9.5,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Netlify",
+        "Score": 9.4,
+        "size": "general"
+    },
+    {
+        "Name": "Nginx",
+        "Score": 6.9,
+        "size": "small"
+    },
+    {
+        "Name": "Nginx",
+        "Score": 7.1,
+        "size": "medium"
+    },
+    {
+        "Name": "Nginx",
+        "Score": 7.4,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Nginx",
+        "Score": 6.9,
+        "size": "general"
+    },
+    {
+        "Name": "Notion",
+        "Score": 9.6,
+        "size": "small"
+    },
+    {
+        "Name": "Notion",
+        "Score": 9.7,
+        "size": "medium"
+    },
+    {
+        "Name": "Notion",
+        "Score": 9.6,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Notion",
+        "Score": 9.4,
+        "size": "general"
+    },
+    {
+        "Name": "Nutanix",
+        "Score": 0.0,
+        "size": "small"
+    },
+    {
+        "Name": "Nutanix",
+        "Score": 0.0,
+        "size": "medium"
+    },
+    {
+        "Name": "Nutanix",
+        "Score": 0.0,
+        "size": "enterprise"
+    },
+    {
+        "Name": "Nutanix",
+        "Score": 0.0,
+        "size": "general"
+    }
+]

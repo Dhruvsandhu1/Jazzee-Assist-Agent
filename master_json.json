@@ -1,0 +1,418 @@
+{
+  "Confluence": [
+    {"Source": "Vendr"},
+    {"Type": "Premium", "Units": 300, "Cost": "$78 - $91 per unit"},
+    {"Type": "Premium", "Units": 3000, "Cost": "$58 - $70 per unit"},
+    {"Type": "Standard", "Units": 750, "Cost": "$38 - $40 per unit"},
+    {"Type": "Standard", "Units": 7500, "Cost": "$31 - $36 per unit"}
+  ],
+  "Jira": [
+    {"Source": "Vendr"},
+    {"Type": "Premium", "Units": 750, "Cost": "$86 - $95 per unit"},
+    {"Type": "Premium", "Units": 7500, "Cost": "$61 - $75 per unit"},
+    {"Type": "Standard", "Units": 150, "Cost": "$82 per unit"},
+    {"Type": "Standard", "Units": 1500, "Cost": "$58 - $62 per unit"},
+    {"Type": "Enterprise", "Units": 800, "Cost": "$155 per unit"},
+    {"Type": "Enterprise", "Units": 3000, "Cost": "$109.6 per unit"}
+  ],
+  "BambooHR": [
+    {"Source": "Vendr"},
+    {"Type": "Pro", "Units": 75, "Cost": "$9 - $144 per unit"},
+    {"Type": "Pro", "Units": 750, "Cost": "$9 - $144 per unit"}
+  ],
+  "Box": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 300, "Cost": "$186 - $259 per unit"},
+    {"Type": "Enterprise", "Units": 3000, "Cost": "$170 - $235 per unit"},
+    {"Type": "Business Plus", "Units": 75, "Cost": "$234 - $284 per unit"},
+    {"Type": "Business Plus", "Units": 750, "Cost": "$177 - $180 per unit"}
+  ],
+  "Calendly": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 50, "Cost": "$270 - $300 per unit"},
+    {"Type": "Enterprise", "Units": 500, "Cost": "$227 - $255 per unit"},
+    {"Type": "Teams", "Units": 40, "Cost": "$144 - $173 per unit"},
+    {"Type": "Teams", "Units": 400, "Cost": "$56 - $136 per unit"}
+  ],
+  "ClickUp": [
+    {"Source": "Vendr"},
+    {"Type": "Business", "Seats": 100, "Cost": "$109 - $136 per seat"},
+    {"Type": "Business", "Seats": 1000, "Cost": "$96 - $106 per seat"},
+    {"Type": "Enterprise", "Seats": 200, "Cost": "$335 - $353 per seat"},
+    {"Type": "Enterprise", "Seats": 2000, "Cost": "$214 per seat"}
+  ],
+  "DocuSign eSignature": [
+    {"Source": "Vendr"},
+    {"Type": "Business Pro", "Users": 75, "Cost": "$261 - $432 per user"},
+    {"Type": "Business Pro", "Users": 750, "Cost": "$195 - $206 per user"},
+    {"Type": "Enterprise Pro", "Users": 100, "Cost": "$241 - $298 per user"},
+    {"Type": "Enterprise Pro", "Users": 1000, "Cost": "$241 - $298 per user"}
+  ],
+  "Druva SAAS Applications": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "High Storage Tier": 40, "Cost": "$16 per high storage tier"},
+    {"Type": "Enterprise", "High Storage Tier": 400, "Cost": "$16 per high storage tier"}
+  ],
+  "Freshdesk": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 30, "Cost": "$852 - $864 per unit"},
+    {"Type": "Enterprise", "Units": 300, "Cost": "$852 - $864 per unit"},
+    {"Type": "Pro", "Units": 150, "Cost": "$319 - $588 per unit"},
+    {"Type": "Pro", "Units": 1500, "Cost": "$570 - $746 per unit"}
+  ],
+  "GitHub": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Users": 500, "Cost": "$195 - $230 per user"},
+    {"Type": "Enterprise", "Users": 5000, "Cost": "$155 - $195 per user"}
+  ],
+  "Gitlab": [
+    {"Source": "Vendr"},
+    {"Type": "Premium", "Seats": 150, "Cost": "$228 - $288 per seat"},
+    {"Type": "Premium", "Seats": 1500, "Cost": "$228 - $285 per seat"},
+    {"Type": "Ultimate", "Seats": 25, "Cost": "$713 - $1k per seat"},
+    {"Type": "Ultimate", "Seats": 250, "Cost": "$1k per seat"}
+  ],
+  "Gong": [
+    {"Source": "Vendr"},
+    {"Type": "Lite", "Units": 20, "Cost": "$700 - $899 per unit"},
+    {"Type": "Lite", "Units": 200, "Cost": "$613 - $703 per unit"},
+    {"Type": "Professional", "Units": 150, "Cost": "$805 - $1k per unit"},
+    {"Type": "Professional", "Units": 1500, "Cost": "$514 - $1k per unit"}
+  ],
+  "HubSpot Marketing Hub": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 1000, "Cost": "$20k - $32k per unit"},
+    {"Type": "Enterprise", "Units": 10000, "Cost": "$20k - $32k per unit"},
+    {"Type": "Professional", "Units": 200000, "Cost": "$6k - $10k per unit"},
+    {"Type": "Professional", "Units": 2000000, "Cost": "$6k - $10k per unit"}
+  ],
+  "Jamf": [
+    {"Source": "Vendr"},
+    {"Type": "Business", "Licenses": 75, "Cost": "$131 - $164 per user license"},
+    {"Type": "Business", "Licenses": 750, "Cost": "$140 - $516 per user license"}
+  ],
+  "JFrog Self-Hosted": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise X", "Licenses": 1, "Cost": "$15k per license"},
+    {"Type": "Enterprise X", "Licenses": 10, "Cost": "$15k per license"},
+    {"Type": "Pro", "Licenses": 1, "Cost": "$4k per license"},
+    {"Type": "Pro", "Licenses": 10, "Cost": "$4k per license"},
+    {"Type": "ProX", "Licenses": 1, "Cost": "$17k - $23k per license"},
+    {"Type": "ProX", "Licenses": 10, "Cost": "$17k - $23k per license"}
+  ],
+  "Miro": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Users": 300, "Cost": "$200 - $235 per user"},
+    {"Type": "Enterprise", "Users": 3000, "Cost": "$200 - $235 per user"},
+    {"Type": "Business", "Users": 500, "Cost": "$153.6 per user"},
+    {"Type": "Starter", "Users": 500, "Cost": "$76.8 per user"}
+  ],
+  "Monday.com": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 100, "Cost": "$410 - $528 per unit"},
+    {"Type": "Enterprise", "Units": 1000, "Cost": "$332 - $451 per unit"},
+    {"Type": "Pro", "Units": 75, "Cost": "$187 - $192 per unit"},
+    {"Type": "Pro", "Units": 750, "Cost": "$187 - $192 per unit"}
+  ],
+  "MongoDB": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise Advanced", "Units": 100, "Cost": "$5k - $11k per unit"},
+    {"Type": "Enterprise Advanced", "Units": 1000, "Cost": "$5k - $11k per unit"},
+    {"Type": "Dedicated Cloud", "Hours": 500, "Cost": "$0.08 per hour"},
+    {"Type": "Serverless Cloud", "Reads": 5000000, "Cost": "$0.10 per 1M reads"}
+  ],
+  "Okta Workforce Identity Cloud": [
+    {"Source": "Vendr"},
+    {"Type": "IT Products-MFA", "Units": 750, "Cost": "$19 - $29 per unit"},
+    {"Type": "IT Products-MFA", "Units": 7500, "Cost": "$10 - $14 per unit"},
+    {"Type": "Single Sign On", "Users": 500, "Cost": "$19.2 per user"},
+    {"Type": "Universal Directory", "Users": 500, "Cost": "$19.2 per user"},
+    {"Type": "Lifecycle Management", "Users": 500, "Cost": "$38.4 per user"},
+    {"Type": "API Access Management", "Users": 500, "Cost": "$19.2 per user"},
+    {"Type": "Device Access", "Users": 500, "Cost": "$38.4 per user"},
+    {"Type": "Privileged Access", "Units": 500, "Cost": "$134.4 per unit"},
+    {"Type": "Advanced Server Access", "Servers": 500, "Cost": "$144 per server"},
+    {"Type": "Access Gateway", "Users": 500, "Cost": "$28.8 per user"},
+    {"Type": "Workflows", "Users": 500, "Cost": "$57.6 per user"},
+    {"Type": "Identity Governance", "Users": 500, "Cost": "$105.6 per user"},
+    {"Type": "Identity Threat Protection", "Users": 500, "Cost": "$38.4 per user"}
+  ],
+  "Palo Alto Networks Prisma Access": [
+    {"Source": "Vendr"},
+    {"Type": "Not Mentioned*", "Units": 150, "Cost": "$16k - $72k per unit"},
+    {"Type": "Not Mentioned*", "Units": 1500, "Cost": "$16k - $72k per unit"}
+  ],
+  "Pluralsight Flow": [
+    {"Source": "Vendr"},
+    {"Type": "Plus", "Seats": 25, "Cost": "$375 - $456 per seat"},
+    {"Type": "Plus", "Seats": 250, "Cost": "$449 - $539 per seat"}
+  ],
+  "Rippling Platform": [
+    {"Source": "Vendr"},
+    {"Type": "Core", "Units": 75, "Cost": "$63 - $79 per unit"},
+    {"Type": "Core", "Units": 750, "Cost": "$41 - $60 per unit"},
+    {"Type": "Pro", "Units": 75, "Cost": "$138 - $212 per unit"},
+    {"Type": "Pro", "Units": 750, "Cost": "$64 - $135 per unit"},
+    {"Type": "Enterprise", "Units": 75, "Cost": "$202 - $240 per unit"},
+    {"Type": "Enterprise", "Units": 750, "Cost": "$210 - $240 per unit"}
+  ],
+  "ServiceNow IT Service Management": [
+    {"Source": "Vendr"},
+    {"Type": "Professional", "Units": 75, "Cost": "$387 - $1k per unit"},
+    {"Type": "Professional", "Units": 750, "Cost": "$387 - $1k per unit"}
+  ],
+  "Tableau Cloud": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Units": 1, "Cost": "$84k - $175k per unit"},
+    {"Type": "Enterprise", "Units": 10, "Cost": "$84k - $175k per unit"}
+  ],
+  "Terraform": [
+    {"Source": "Vendr"},
+    {"Type": "Plus", "Units": 1000, "Cost": "$39 - $54 per unit"},
+    {"Type": "Plus", "Units": 10000, "Cost": "$5 per unit"}
+  ],
+  "Zoom Workplace": [
+    {"Source": "Vendr"},
+    {"Type": "Business", "Licenses": 300, "Cost": "$72 - $202 per license"},
+    {"Type": "Business", "Licenses": 3000, "Cost": "$48 - $178 per license"},
+    {"Type": "Enterprise", "Licenses": 2000, "Cost": "$48 - $133 per license"},
+    {"Type": "Enterprise", "Licenses": 20000, "Cost": "$48 - $133 per license"},
+    {"Type": "Business Plus", "Licenses": 30, "Cost": "$250 - $300 per license"},
+    {"Type": "Business Plus", "Licenses": 300, "Cost": "$250 per license"},
+    {"Type": "Enterprise Plus", "Licenses": 150, "Cost": "$81 - $300 per license"},
+    {"Type": "Enterprise Plus", "Licenses": 1500, "Cost": "$98 - $203 per license"},
+    {"Type": "Enterprise Essentials", "Licenses": 40, "Cost": "$115 - $234 per license"},
+    {"Type": "Enterprise Essentials", "Licenses": 400, "Cost": "$166 - $220 per license"}
+  ],
+  "ZoomInfo": [
+    {"Source": "Vendr"},
+    {"Type": "Advanced", "Units": 75, "Cost": "$1k - $2k per unit"},
+    {"Type": "Advanced", "Units": 750, "Cost": "$1k - $2k per unit"},
+    {"Type": "Elite", "Units": 30, "Cost": "$2k per unit"},
+    {"Type": "Elite", "Units": 300, "Cost": "$2k per unit"}
+  ],
+  "Asana": [
+    {"Source": "AWS Marketplace"},
+    {"Type": "Enterprise", "Licenses": 100, "Cost": "$240 per license"},
+    {"Type": "Advanced", "Licenses": 100, "Cost": "$150 per license"}
+  ],
+  "HubSpot Sales Hub": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Fees": 20, "Cost": "$799 - $2k per fee"}
+  ],
+  "Notion": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Seats": 400, "Cost": "$187 - $198 per seat"},
+    {"Type": "Enterprise", "Seats": 4000, "Cost": "$184 - $193 per seat"},
+    {"Type": "Business", "Seats": 500, "Cost": "$144 per seat"},
+    {"Type": "Plus", "Seats": 500, "Cost": "$96 per seat"}
+  ],
+  "PagerDuty": [
+    {"Source": "Vendr"},
+    {"Type": "Business", "Units": 300, "Cost": "$369 - $414 per unit"},
+    {"Type": "Business", "Units": 3000, "Cost": "$150 - $358 per unit"},
+    {"Type": "Professional", "Units": 40, "Cost": "$200 - $252 per unit"},
+    {"Type": "Professional", "Units": 400, "Cost": "$214 - $234 per unit"}
+  ],
+  "Trello": [
+    {"Source": "Website"},
+    {"Type": "Enterprise", "Users": 50, "Cost": "$168 per user"},
+    {"Type": "Enterprise", "Users": 5000, "Cost": "$71 per user"},
+    {"Type": "Premium", "Users": 500, "Cost": "$96 per user"},
+    {"Type": "Standard", "Users": 500, "Cost": "$48 per user"}
+  ],
+  "Zendesk Suite": [
+    {"Source": "Vendr"},
+    {"Type": "Enterprise", "Agents": 2000, "Cost": "$22 - $88 per agent"},
+    {"Type": "Enterprise", "Agents": 20000, "Cost": "$60 - $113 per agent"},
+    {"Type": "Professional", "Agents": 20, "Cost": "$915 - $1k per agent"},
+    {"Type": "Professional", "Agents": 200, "Cost": "$1k per agent"}
+  ],
+  "Wiz": [
+    {"Source": "Vendr"},
+    {"Type": "Advanced", "Units": 1000, "Cost": "$95 - $96 per unit"},
+    {"Type": "Advanced", "Units": 10000, "Cost": "$45 - $93 per unit"},
+    {"Type": "Advanced", "Units": 5000, "Cost": "$45 - $93 per unit"},
+    {"Type": "Standard", "Units": 300, "Cost": "$92 - $200 per unit"},
+    {"Type": "Standard", "Units": 1500, "Cost": "$120 - $130 per unit"},
+    {"Type": "Standard", "Units": 3000, "Cost": "$81 - $113 per unit"}
+  ],
+  "Orca": [
+    {"Source": "Vendr"},
+    {"Type": "Premium", "Units": 750, "Cost": "$48 - $222 per unit"},
+    {"Type": "Premium", "Units": 3750, "Cost": "$57 - $77 per unit"},
+    {"Type": "Premium", "Units": 7500, "Cost": "$57 - $77 per unit"},
+    {"Type": "Classic", "Units": 400, "Cost": "$88 - $280 per unit"},
+    {"Type": "Classic", "Units": 2000, "Cost": "$88 - $280 per unit"},
+    {"Type": "Classic", "Units": 4000, "Cost": "$88 - $280 per unit"}
+  ],
+  "Sentinelone": [
+    {"Source": "Vendr"},
+    {"Type": "Singularity Control", "Units": 150, "Cost": "$21 - $33 per unit"},
+    {"Type": "Singularity Control", "Units": 750, "Cost": "$21 - $33 per unit"},
+    {"Type": "Singularity Control", "Units": 1500, "Cost": "$21 - $33 per unit"}
+  ],
+  "Drata": [
+    {"Source": "Vendr"},
+    {"Type": "Advanced", "Employees": 500, "Cost": "$34 - $72 per employee"},
+    {"Type": "Advanced", "Employees": 5000, "Cost": "$34 - $72 per employee"}
+  ],
+  "Vanta": [
+    {"Source": "Vendr"},
+    {"Type": "Growth", "Employees": 500, "Cost": "$20 - $42 per employee"},
+    {"Type": "Scale", "Employees": 500, "Cost": "$92 - $116 per employee"}
+  ],
+  "Sprinto": [
+    {"Source": "Vendr"},
+    {"Type": "General", "Employees": 500, "Cost": "$26 - $34 per employee"}
+  ],
+  "Dropbox": [
+      {"Source": "Website"},
+      {"Type": "Plus", "Users": 500, "Cost": "$96 per user"},
+      {"Type": "Essentials", "Users": 500, "Cost": "$159 per user"},
+      {"Type": "Business", "Users": 500, "Cost": "$144 per user"},
+      {"Type": "Business Plus", "Users": 500, "Cost": "$230.4 per user"},
+      {"Type": "Enterprise", "Users": 500, "Cost": "$300 per user"}
+    ],
+    "Elastic": [
+      {"Source": "Website"},
+      {"Type": "Enterprise", "Users": 500, "Cost": "$1680 per user"},
+      {"Type": "Platinum", "Users": 500, "Cost": "$1200 per user"},
+      {"Type": "Gold", "Users": 500, "Cost": "$1046.4 per user"},
+      {"Type": "Standard", "Users": 500, "Cost": "$912 per user"}
+    ],
+    "Lucidchart": [
+      {"Source": "Website"},
+      {"Type": "Team", "Users": 500, "Cost": "$96 per user"}
+    ],
+    "Adobe esign": [
+      {"Source": "Website"},
+      {"Type": "Standard", "Licenses": 1, "Cost": "$144 per license"},
+      {"Type": "Standard", "Licenses": "10+", "Cost": "$144 per license"},
+      {"Type": "Pro", "Licenses": 1, "Cost": "$230 per license"},
+      {"Type": "Pro", "Licenses": "10+", "Cost": "$230 per license"}
+    ],
+    "Adobe Creative Cloud All apps": [
+      {"Source": "Website"},
+      {"Type": "Business", "Licenses": 500, "Cost": "Rs36365 per license"},
+      {"Type": "Schools & Universities", "Licenses": 500, "Cost": "Rs22723 per license"},
+      {"Type": "Students & Teachers", "Licenses": 500, "Cost": "Rs6129 per license"}
+    ],
+    "Adobe Creative Cloud Single App": [
+      {"Source": "Website"},
+      {"Type": "Business", "Licenses": 500, "Cost": "Rs15581 per license"},
+      {"Type": "Schools & Universities", "Licenses": 500, "Cost": "Rs9734 per license"}
+    ],
+    "Crowdstrike": [
+      {"Source": "Vendr"},
+      {"Type": "Business", "Devices": 500, "Cost": "$22 per device"}
+    ],
+    "Datadog Infrastructure": [
+      {"Source": "Website"},
+      {"Type": "Pro", "Hosts": 500, "Cost": "$144 per host"},
+      {"Type": "Enterprise", "Hosts": 500, "Cost": "$220.8 per host"},
+      {"Type": "DevSecOps Pro", "Hosts": 500, "Cost": "$211.2 per host"},
+      {"Type": "DevSecOps Enterprise", "Hosts": 500, "Cost": "$326.4 per host"}
+    ],
+    "Datadog Security": [
+      {"Source": "Website"},
+      {"Type": "Cloud Security Management Pro", "Hosts": 500, "Cost": "$96 per host"},
+      {"Type": "Cloud Security Management Enterprise", "Hosts": 500, "Cost": "$240 per host"},
+      {"Type": "Threat Management", "Hosts": 500, "Cost": "$297.6 per host"}
+    ],
+    "Datadog Applications": [
+      {"Source": "Website"},
+      {"Type": "APM Enterprise", "Hosts": 500, "Cost": "$384 per host"},
+      {"Type": "APM", "Hosts": 500, "Cost": "$297.6 per host"},
+      {"Type": "Database Monitoring", "Hosts": 500, "Cost": "$672 per host"}
+    ],
+    "Figma": [
+      {"Source": "Website"},
+      {"Type": "Enterprise", "Seats": 500, "Cost": "$720 per seat"},
+      {"Type": "Organisation", "Seats": 500, "Cost": "$432 per seat"},
+      {"Type": "Professional Team", "Seats": 500, "Cost": "$144 per seat"}
+    ],
+    "Freshworks Freshservice": [
+      {"Source": "Website"},
+      {"Type": "Not mentioned", "Units": 40, "Cost": "$377 - $1k per unit"},
+      {"Type": "Not mentioned", "Units": 400, "Cost": "$139 - $756 per unit"}
+    ],
+    "Guesty": [
+      {"Source": "Website"},
+      {"Type": "Lite", "Listings": 500, "Cost": "$153.6 per listing"}
+    ],
+    "HubSpot Service Hub": [
+      {"Source": "Website"},
+      {"Type": "Enterprise", "Seats": 500, "Cost": "$1440 per seat"},
+      {"Type": "Professional", "Seats": 500, "Cost": "$864 per seat"}
+    ],
+    "Panther Web": [
+      {"Source": "Website"},
+      {"Type": "Marketplace", "Users": 500, "Cost": "$758.4 per user"},
+      {"Type": "Single Expert", "Users": 500, "Cost": "$182.4 per user"}
+    ],
+    "Panther Web+Apps": [
+      {"Source": "Website"},
+      {"Type": "Marketplace", "Users": 500, "Cost": "$1430.4 per user"},
+      {"Type": "Single Expert", "Users": 500, "Cost": "$374.4 per user"}
+    ],
+    "Pluralsight Skills": [
+      {"Source": "Website"},
+      {"Type": "Professional", "Users": 500, "Cost": "Rs37648 per user"},
+      {"Type": "Starter", "Users": 500, "Cost": "Rs25944 per user"},
+      {"Type": "Enterprise", "Users": 500, "Cost": "$779 per user"}
+    ],
+    "Postman": [
+      {"Source": "Website"},
+      {"Type": "Enterprise", "Users": 500, "Cost": "$470.4 per user"},
+      {"Type": "Professional", "Users": 500, "Cost": "$278.4 per user"},
+      {"Type": "Basic", "Users": 500, "Cost": "$134.4 per user"}
+    ],
+    "Shopify": [
+      {"Source": "Website"},
+      {"Type": "Teams", "Users": 500, "Cost": "Rs53750.4 per user"},
+      {"Type": "Advanced", "Users": 500, "Cost": "Rs217728 per user"},
+      {"Type": "Plus", "Users": 500, "Cost": "Rs1680000 per user"},
+      {"Type": "Starter", "Users": 500, "Cost": "Rs3830.4 per user"},
+      {"Type": "Retail", "Users": 500, "Cost": "Rs67200 per user"}
+    ],
+    "Slack": [
+      {"Source": "Website"},
+      {"Type": "Business+", "Seats": 500, "Cost": "Rs4052.16 per seat"},
+      {"Type": "Pro", "Seats": 500, "Cost": "Rs2354.4 per seat"}
+    ],
+    "Snowflake": [
+      {"Source": "Website"},
+      {"Type": "Enterprise", "Credits": 500, "Cost": "$3 per credit"},
+      {"Type": "Business Critical", "Credits": 500, "Cost": "$4 per credit"},
+      {"Type": "Standard", "Credits": 500, "Cost": "$2 per credit"}
+    ],
+    "Square": [
+      {"Source": "Website"},
+      {"Type": "Plus", "Users": 500, "Cost": "$278.4 per user"}
+    ],
+    "TravisCI": [
+      {"Source": "Website"},
+      {"Type": "Usage Based", "Users": 500, "Cost": "$132 per user"},
+      {"Type": "Unlimited Plan", "Users": 500, "Cost": "$633.6 per user"},
+      {"Type": "Server", "Users": 500, "Cost": "$326.4 per user"}
+    ],
+    "Twilio": [
+      {"Source": "Website"},
+      {"Type": "SMS", "Messages": 500, "Cost": "$0.07584 per message"},
+      {"Type": "WhatsApp Message", "Messages": 500, "Cost": "$0.048 per message"},
+      {"Type": "Voice Call Receive", "Minutes": 500, "Cost": "$0.0816 per min per call"},
+      {"Type": "Voice Call Make", "Minutes": 500, "Cost": "$0.1344 per min per call"},
+      {"Type": "Video Call", "Minutes": 500, "Cost": "$0.0384 per min per call"},
+      {"Type": "E-Mail", "Users": 500, "Cost": "$191.52 per user"}
+    ],
+    "Vercel": [
+      {"Source": "AWS Marketplace"},
+      {"Type": "Enterprise", "Users": 500, "Cost": "$250000 per user"}
+    ]
+}
+
+
+
+
+
