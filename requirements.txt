@@ -1,0 +1,9 @@
+sentence-transformers==3.4.1
+streamlit==1.41.1
+openai==1.60.2
+boto3==1.36.8
+streamlit_option_menu==0.4.0
+python-dotenv==1.0.1
+langchain_community==0.3.16
+langchain_openai==0.3.2
+langchain_chroma==0.2.1
