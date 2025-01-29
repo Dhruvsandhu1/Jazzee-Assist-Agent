@@ -145,7 +145,7 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.2
-pywin32==308
+pywin32
 PyYAML==6.0.2
 pyzmq==26.2.0
 quora-scraper==1.1.3
